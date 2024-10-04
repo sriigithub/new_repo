@@ -1,0 +1,5 @@
+linus commands
+git init
+git config
+git add
+
